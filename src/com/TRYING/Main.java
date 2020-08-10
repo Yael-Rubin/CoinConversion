@@ -57,6 +57,6 @@ public class Main {
             System.out.println("Exception");
             e.printStackTrace();
         }
-        //System.out.println(pathname);
+        
     }
 }
